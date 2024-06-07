@@ -5,14 +5,4 @@ streamlit==1.18.1
 faiss-cpu==1.7.4
 streamlit-extras
 openai == 1.31.1
-streamlit   
-dotenv
-pickle
-PyPDF2 
-streamlit_extras.add_vertical_space 
-langchain.text_splitter 
-langchain.embeddings.openai 
-langchain.vectorstores 
-langchain.llms 
-langchain.chains.question_answering 
-os
+
